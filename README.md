@@ -38,4 +38,6 @@ More projects (forecasting, computer vision, cybersecurity NLP) at **[taruni-por
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=taruni2409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/taruni2409)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taruni2409&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/taruni2409)
 
+[![LeetCode](https://leetcard.jacoblin.cool/taruni_24?theme=dark&font=baloo+2&ext=heatmap)](https://leetcode.com/u/taruni_24/)
+
 </div>
