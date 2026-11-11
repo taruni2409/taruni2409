@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-taruni--portfolio.vercel.app-111111?style=for-the-badge)](https://taruni-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taruninallamothu24/)
-[![Email](https://img.shields.io/badge/Email-reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taruninallamothu24@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taruninallamothu2409@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to-ML%20%7C%20MLOps%20%7C%20GenAI%20%7C%20Agentic%20AI-2ea44f?style=for-the-badge)](https://taruni-portfolio.vercel.app)
 
 </div>
